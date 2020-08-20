@@ -3,8 +3,7 @@ You can play Sudoku yourself or use the Sudoku solver in this application!
 
 The sudoku puzzles in this game are generated according to the following three metrics.
 
-First one: the number of given cells
-
+First one: the number of given cells\
 Second one: the lower bound of given cells in each row and column
 
 Third one: the solving time by computer using Backtracking
