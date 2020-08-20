@@ -1,5 +1,5 @@
 # Sudoku-Game-and-Solver
-You can play Sudoku or find the solution of your own Sudoku puzzle in this application.
+You can play Sudoku yourself or use the Sudoku solver in this application!
 
 The sudoku puzzles in this game are generated according to the following three metrics.
 
@@ -9,3 +9,6 @@ Third one: the solving time by computer using Backtracking
 
 Then, a sudoku puzzle is graded according to these three metrics and separated into three difficulties (Easy, Medium, Difficult).
 Since the sudoku puzzle will only be generated once you choose the difficulty, it may take some time to do so.
+
+The images used in this application are purchased in https://craftpix.net/
+The background music is downloaded from https://www.bensound.com
