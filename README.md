@@ -1,4 +1,5 @@
 # Sudoku-Game-and-Solver
+This application is written in python, using pygame.\
 You can play Sudoku yourself or use the Sudoku solver in this application!
 
 The sudoku puzzles in this game are generated according to the following three metrics.
